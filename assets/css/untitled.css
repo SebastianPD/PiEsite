@@ -1,0 +1,11 @@
+.gradient {
+  background: linear-gradient(120deg,#7f70f5,#0ea0ff);
+  color: #fff;
+}
+
+.btn-outline-primary:hover {
+  color: #fff;
+  background-color: rgba(103,94,118,100);
+  border-color: rgb(78,42,132);
+}
+
